@@ -281,7 +281,7 @@ O `Validate_Recaptcha_Key.py` realiza uma validação simples baseada na respost
 
 ---
 
-## Aviso legal
+## Aviso legal ⚠️
 
 Estes scripts devem ser utilizados apenas em ambientes autorizados.
 
